@@ -11,7 +11,7 @@
 
 { "name": "Hack Land Military Recruiting Hack", "cost": 0,  "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "When defeating a [All] unit, earn [10000] Gold and recruit it" ] }  
 
-{ "name": "Hack Land Military Defense Hack", "cost": 0,  "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[100%] Strength <when defending> <when [Embarked]>", "[+1000]% Strength <when defending>" ] } 
+{ "name": "Hack Land Military Defense Hack", "cost": 0,  "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1000] Strength <when defending> <when [Embarked]>", "[+1000]% Strength <when defending>" ] } 
 
 { "name": "Hack Land Military Hack 2", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1000]% Strength <vs [All] units>" ] } 
 
