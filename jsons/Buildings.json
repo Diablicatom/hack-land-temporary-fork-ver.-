@@ -15,7 +15,7 @@
 
 { "name": "Hack Land Military Hack 2", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1000]% Strength <vs [All] units>" ] } 
 
-{ "name": "Hack Land Military Hack 1", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "Damage is ignored when determining unit Strength <for [All] units>", "Military Units gifted from City-States start with [10000] XP", "New [All] units start with [10000] XP [in all cities]" ] } 
+{ "name": "Hack Land Military Hack 1", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "Damage is ignored when determining unit Strength <for [All] units>", "Military Units gifted from City-States start with [10000] XP", "New [All] units start with [10000] XP [in all cities]", "Units ending their turn on [Mountain] tiles take [0] damage" ] } 
 
 { "name": "Hack Land City-States Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns", "City-State territory always counts as friendly territory", "[10000]% resources gifted by City-States", "[-10000]% City-State Influence degradation", "Resting point for Influence with City-States is increased by [10000]", "Influence of all other civilizations with all city-states degrades [10000]% faster", "Gifts of Gold to City-States generate [10000]% more Influence" ] } 
 
@@ -23,7 +23,7 @@
 
 { "name": "Hack Land Culture Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1 Culture] per [1] population [in all cities]", "[+1000]% [Culture] [in all cities]", "[+1000]% Golden Age length", "[-1000]% Culture cost of adopting new Policies" ] } 
   
-{ "name": "Hack Land Faith Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1 Faith] per [1] population [in all cities]", "[+1000]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [6] additional belief(s) of any type when [founding] a religion", "May choose [6] additional belief(s) of any type when [enhancing] a religion" ] } 
+{ "name": "Hack Land Faith Hack", "cost": 0, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1 Faith] per [1] population [in all cities]", "[+1000]% [Faith] [in all cities]", "Religion naturally spreads to cities [+99996] tiles away", "May not generate great prophet equivalents naturally", "May choose [6] additional belief(s) of any type when [founding] a religion", "May choose [6] additional belief(s) of any type when [enhancing] a religion" ] } 
 
 { "name": "Hack Land Happiness Hack", "cost": 1, "uniques": [ "Only available <for [Human player] Civilizations>", "Limited to [1] per Civilization", "Destroyed when the city is captured", "[+1 Happiness] per [1] population [in all cities]", "[+1000]% [Happiness] [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] }
 
